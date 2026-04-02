@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=amitsingh2315&show_icons=true&theme=dark)
+
+![streak](https://streak-stats.demolab.com/?user=amitsingh2315&theme=dark)
+
+---
+
 ## 🚀 About Me
 
 - 🤖 Working on Machine Learning & AI Projects
@@ -90,13 +98,7 @@ https://github.com/amitsingh2315/customer-churn-prediction
 
 ---
 
-## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=amitsingh2315&show_icons=true&theme=dark)
-
-![streak](https://streak-stats.demolab.com/?user=amitsingh2315&theme=dark)
-
----
 
 ## 🌐 Connect With Me
 
